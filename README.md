@@ -1,8 +1,8 @@
-#  Panic Attack Analysis – Power BI Dashboard
+#  Panic Attack Analysis – Power BI Reports
 
 ## Project Overview
 This Power BI project dives into  focusing on understanding **panic attacks** through data.  
-By visualizing triggers, demographics, and lifestyle patterns, this dashboard helps uncover the **hidden correlations between stress, habits, and emotional well-being**.
+By visualizing triggers, demographics, and lifestyle patterns, this Reports helps uncover the **hidden correlations between stress, habits, and emotional well-being**.
 
 The goal is to turn raw behavioral and psychological data into **actionable insights** that promote awareness.
 
@@ -16,7 +16,7 @@ The goal is to turn raw behavioral and psychological data into **actionable insi
 
 ---
 
-##  Dashboard Highlights
+##  Reports Highlights
 | Section | Description |
 |----------|-------------|
 | **Overview Page** | Summary of total cases, average frequency, and overall recovery rate |
