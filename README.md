@@ -36,7 +36,7 @@ The goal is to turn raw behavioral and psychological data into **actionable insi
 ---
 
 ##  Tools & Techniques
-- **Snow Flake** as source conncted to **Power BI Desktop**
+- **Snow Flake ❄️** as source conncted to **Power BI Desktop**
 - **Power Query** – Data cleaning and preprocessing, Custom coloumns for categorized values based on the panic score, using IF conditional formatting  
 - **DAX** – Custom measures **Percentage of patients Dizziness**, **Age Group IF**, **Age Group Switch**
 - **Visuals Used:** Cards, Stacked Bar Charts, Bar Cluster Charts, Line Charts, and Slicers  
